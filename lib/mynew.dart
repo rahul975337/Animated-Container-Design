@@ -153,7 +153,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             child: CircleAvatar(
                               radius: 50,
                               backgroundImage: NetworkImage(
-                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqyLY06eRoWwhnWGBqnbcYszs-nvbVwx5u1w&usqp=CAU'),
+                                  'https://images.pexels.com/photos/3435318/pexels-photo-3435318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'),
                             ),
                           ),
                         ),
@@ -343,7 +343,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                             child: CircleAvatar(
                                               // backgroundColor: Colors.blue,
                                               backgroundImage: NetworkImage(
-                                                  'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqyLY06eRoWwhnWGBqnbcYszs-nvbVwx5u1w&usqp=CAU'),
+                                                  'https://images.pexels.com/photos/3435318/pexels-photo-3435318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'),
                                               // radius: _width / 12,
                                             ),
                                           ),
